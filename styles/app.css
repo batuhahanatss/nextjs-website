@@ -1,0 +1,19 @@
+body {
+    font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+      'Arial', sans-serif;
+    padding: 10px 10px 10px;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  nav a{
+    padding: 10px;
+    list-style: none;
+    text-decoration: none;
+    color: rgb(239, 114, 114);
+  }
+
+  nav a:hover{
+    
+    color: rgb(114, 183, 239);
+  }
